@@ -3,8 +3,8 @@
   <groupId>com.softcrylic.testautomation</groupId>
   <artifactId>bdt</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>demo</name>
-  <description>behaviour driven development with selenium test automation</description>
+  <name>Cucumber parallel run demo</name>
+  <description>Behaviour Driven Development with selenium test automation</description>
     <dependencies>
         <dependency>
             <groupId>info.cukes</groupId>
